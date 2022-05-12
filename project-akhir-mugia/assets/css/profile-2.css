@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+}
+.gradient-custom-2 {
+    background: linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1));
+    margin-top: -120px;
+}  
+.navbar{
+      box-shadow: none; 
+}
+.col1 {
+      padding-top: 90px;
+}
+.col p{
+      margin-top: 10px;
+      font-weight: 300;
+      color: black;
+      text-align: center;
+}
+.row{
+      background: linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1));
+}
